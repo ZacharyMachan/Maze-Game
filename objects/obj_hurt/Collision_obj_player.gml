@@ -1,4 +1,0 @@
-//
-
-health = health - 10 ;
-

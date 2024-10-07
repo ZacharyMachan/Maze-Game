@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_hurt",
+  "name": "obj_enemy1",
   "spriteId": {
-    "name": "spr_hurt",
-    "path": "sprites/spr_hurt/spr_hurt.yy",
+    "name": "spr_enemy1",
+    "path": "sprites/spr_enemy1/spr_enemy1.yy",
   },
   "solid": true,
   "visible": true,
