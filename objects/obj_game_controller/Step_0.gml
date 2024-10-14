@@ -7,4 +7,14 @@ if (health <= 0) {
 	
 }
 
+//no lives swap to deathscreen
+if (lives == 0) {
+	room_goto(rm_gameover);
+}
+
+if (score == 21) {
+	room_goto(rm_win);
+
+}
+
 

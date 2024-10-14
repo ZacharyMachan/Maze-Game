@@ -1,7 +1,7 @@
 
 
 score = 0;
-lives = 3;
+lives = 1;
 health = 100;
 
 
